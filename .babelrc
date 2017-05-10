@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    ["react-intl-to-properties", {
+        "enforceDescriptions": true,
+        "fileName": "en-US",
+        "messagesDir": "./i18n"
+    }]
+  ]
+}
